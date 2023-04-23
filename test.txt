@@ -1,2 +1,1 @@
 print('pelmeni')
-print('vareniki')
